@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maxawad.github.io/csb-jpemd/static/css/main.d5d04a3b.chunk.css",
+    "main.js": "https://maxawad.github.io/csb-jpemd/static/js/main.377a2671.chunk.js",
+    "main.js.map": "https://maxawad.github.io/csb-jpemd/static/js/main.377a2671.chunk.js.map",
+    "runtime-main.js": "https://maxawad.github.io/csb-jpemd/static/js/runtime-main.1eb41f0e.js",
+    "runtime-main.js.map": "https://maxawad.github.io/csb-jpemd/static/js/runtime-main.1eb41f0e.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://maxawad.github.io/csb-jpemd/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://maxawad.github.io/csb-jpemd/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://maxawad.github.io/csb-jpemd/index.html",
+    "static/css/main.d5d04a3b.chunk.css.map": "https://maxawad.github.io/csb-jpemd/static/css/main.d5d04a3b.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://maxawad.github.io/csb-jpemd/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eb41f0e.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.d5d04a3b.chunk.css",
+    "static/js/main.377a2671.chunk.js"
+  ]
+}

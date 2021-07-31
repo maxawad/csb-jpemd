@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,KACE,wBAAyB,CACzB,kCACF","file":"main.d5d04a3b.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\nbody {\n  background-color: #00ffa6;\n  font-family: \"Noto Sans\", sans-serif;\n}\n"]}

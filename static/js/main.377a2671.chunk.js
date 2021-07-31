@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{10:function(e,a,t){"use strict";t.r(a);var c=t(1),n=t(3),r=t.n(n),s=(t(8),t(0));function o(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hola Familia Rovalino Guevara"}),Object(s.jsx)("h2",{children:"Vamos a hostear una llamada con toda la gente posible :)"})]})}var i=document.getElementById("root");r.a.render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(o,{})}),i)},8:function(e,a,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.377a2671.chunk.js.map
